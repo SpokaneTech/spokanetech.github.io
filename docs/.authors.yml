@@ -1,5 +1,10 @@
 authors:
+  spokanetech:
+    name: Spokane Tech
+    description: Organizer
+    avatar: /assets/img/spokanetech.png
+
   joeriddles:
     name: Joseph Riddle
-    description: Creator
+    description: Organizer
     avatar: https://github.com/joeriddles.png

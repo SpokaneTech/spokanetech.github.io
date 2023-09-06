@@ -2,8 +2,13 @@ site_name: Spokane Tech
 
 theme:
   name: material
+  logo: assets/img/spokanetech.png
+  favicon: assets/img/spokanetech.png
+  palette:
+    primary: custom
 
-docs_dir: docs
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - blog:

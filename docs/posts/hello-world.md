@@ -5,7 +5,7 @@ categories:
   - Hello
   - World
 authors:
-  - joeriddles
+  - spokanetech
 ---
 
 # Hello world!
