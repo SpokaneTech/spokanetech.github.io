@@ -2,3 +2,13 @@ site_name: Spokane Tech
 
 theme:
   name: material
+
+docs_dir: docs
+
+plugins:
+  - blog:
+      blog_dir: .
+
+nav:
+  - Blog:
+    - index.md 
